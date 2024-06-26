@@ -1,0 +1,11 @@
+dev:
+  baseUrl: https://dummyjson.com/products
+  entityId: 4
+
+staging:
+  baseUrl: https://dummyjson.com/users
+  entityId: 5
+
+prod:
+  baseUrl: https://prod.dummyjson.com/products
+  entityId: 5
